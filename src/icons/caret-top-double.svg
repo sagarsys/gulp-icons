@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="10px" viewBox="0 0 12 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Totop</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Guidelines" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icons" transform="translate(-1127.000000, -766.000000)" stroke="#2D2F40">
+            <g id="Totop" transform="translate(1133.000000, 771.000000) rotate(-270.000000) translate(-1133.000000, -771.000000) translate(1128.000000, 766.000000)">
+                <polyline id="Stroke-28" points="10 10 5 5 10 0"></polyline>
+                <polyline id="Stroke-29" points="5 10 0 5 5 0"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="18px" viewBox="0 0 17 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>supprimer</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Guidelines" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Icons" transform="translate(-1620.000000, -1125.000000)" stroke="#2D2F40">
+            <g id="supprimer" transform="translate(1621.000000, 1126.000000)">
+                <polygon id="Stroke-141" points="12.6136364 16.0227273 1.70454545 16.0227273 1.70454545 2.38636364 12.6136364 2.38636364"></polygon>
+                <polygon id="Stroke-143" points="9.88636364 2.38636364 4.43181818 2.38636364 4.43181818 0.340909091 9.88636364 0.340909091"></polygon>
+                <path d="M0,2.38636364 L15,2.38636364" id="Stroke-144"></path>
+                <path d="M4.43181818,4.77272727 L4.43181818,12.9545455" id="Stroke-145"></path>
+                <path d="M7.15909091,4.77272727 L7.15909091,12.9545455" id="Stroke-146"></path>
+                <path d="M9.88636364,4.77272727 L9.88636364,12.9545455" id="Stroke-147"></path>
+            </g>
+        </g>
+    </g>
+</svg>

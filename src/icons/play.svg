@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>play</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Guidelines" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-1541.000000, -1059.000000)" stroke="#44485C">
+            <g id="play" transform="translate(1542.000000, 1060.000000)">
+                <path d="M32,16 C32,24.8375652 24.8375652,32 16,32 C7.16382609,32 0,24.8375652 0,16 C0,7.16243478 7.16382609,0 16,0 C24.8375652,0 32,7.16243478 32,16 L32,16 Z" id="Stroke-122" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3.376368963590232,1.265969558428693"></path>
+                <path d="M26.3013699,15.7808219 C26.3013699,21.5909699 21.5923726,26.3013699 15.7808219,26.3013699 C9.96927123,26.3013699 5.26027397,21.5909699 5.26027397,15.7808219 C5.26027397,9.97067397 9.96927123,5.26027397 15.7808219,5.26027397 C21.5923726,5.26027397 26.3013699,9.97067397 26.3013699,15.7808219 L26.3013699,15.7808219 Z" id="Stroke-123" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M12.7739726,19.7571041 L20.0035766,15.7808219 L12.7739726,11.8045397 L12.7739726,19.7571041 Z" id="Stroke-124"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'icons';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../fonts/icons/icons.eot');
+    src: url('../fonts/icons/icons.woff') format('woff'), url('../fonts/icons/icons.ttf') format('truetype'), url('../fonts/icons/icons.eot?#iefix') format('embedded-opentype');
+}
+
+.ps-icon[class^="ps-icon-"],
+.ps-icon[class*=" ps-icon-"] {
+    display: inline-block;
+    font-family: 'icons';
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1;
+    text-transform: none;
+}
+
+$icons: ( arrow-left: '\EA01',
+    arrow-right: '\EA02',
+    bookmark: '\EA03',
+    cancel: '\EA04',
+    caret-left: '\EA05',
+    caret-top-double: '\EA06',
+    close-big: '\EA07',
+    close-search: '\EA08',
+    close-small: '\EA09',
+    confirm: '\EA0A',
+    delete: '\EA0B',
+    download-alt: '\EA0C',
+    download: '\EA0D',
+    ear: '\EA0E',
+    facebook: '\EA0F',
+    file: '\EA10',
+    font-chooser: '\EA11',
+    language: '\EA12',
+    lecture: '\EA13',
+    link: '\EA14',
+    linkedin: '\EA15',
+    mail: '\EA16',
+    media: '\EA17',
+    menu: '\EA18',
+    play: '\EA19',
+    plus: '\EA1A',
+    search: '\EA1B',
+    send: '\EA1C',
+    share: '\EA1D',
+    sound: '\EA1E',
+    stop: '\EA1F',
+    summary: '\EA20',
+    twitter: '\EA21');
+@each $name,
+$icon in $icons {
+    .ps-icon-#{$name}:before {
+        content: $icon;
+        display: block;
+        speak: none;
+    }
+}
