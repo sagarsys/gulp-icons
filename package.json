@@ -1,0 +1,23 @@
+{
+  "name": "gulp-icons",
+  "version": "1.0.0",
+  "description": "Gulp task to generate a font based on svgs",
+  "main": "gulpfile.babel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarsys/gulp-icons.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulp-iconfont"
+  ],
+  "author": "Sagar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sagarsys/gulp-icons/issues"
+  },
+  "homepage": "https://github.com/sagarsys/gulp-icons#readme"
+}
