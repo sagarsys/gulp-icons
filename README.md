@@ -2,16 +2,16 @@
 -----------------------------------
 - Simple gukp task to generate a font based on svg
 
+---------------------------
+***Requirements:***
+- Node / NPM / YARN 
+- Gulp-cli
+
 ----------------------------------
 ***Update your Gulp globally***
 
 - npm uninstall -g gulp
 - npm install -g gulp-cli
-
----------------------------
-***Requirements:***
-- Node / NPM / YARN 
-- Gulp-cli
 
 ---------------------------
 ***Getting Started:***
