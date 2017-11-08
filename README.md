@@ -5,8 +5,8 @@
 ----------------------------------
 ***Update your Gulp globally***
 
-npm uninstall -g gulp
-npm install -g gulp-cli
+- npm uninstall -g gulp
+- npm install -g gulp-cli
 
 ---------------------------
 ***Requirements:***
