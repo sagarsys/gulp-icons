@@ -1,5 +1,4 @@
 **Gulp IconFont Generator**
------------------------------------
 - Simple gukp task to generate a font based on svg
 
 ---------------------------
@@ -15,6 +14,7 @@
 
 ---------------------------
 ***Getting Started:***
+
 - Clone or download repository
 - Run `npm install` or `yarn` to install dependencies
 
